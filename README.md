@@ -1,7 +1,7 @@
 #### Wygląd UI aplikacji
 ![Screen Aplikacji](/images/s1.png)
 #### Opcja 1.2 (Wyświetlanie statystyk firmy)
-![Screen Aplikacji](/images/s2.png)
+![Screen Aplikacji](/images/s2.PNG)
 #### Opcja 1.3 (Dodawanie pracownika)
 ![Screen Aplikacji](/images/s3.png)
 ![Screen Aplikacji](/images/s4.png)
